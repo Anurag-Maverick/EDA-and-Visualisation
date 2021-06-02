@@ -3,4 +3,6 @@ In this repository, I am compiling a collection of projects that I have worked o
 
 In python, primary libraries supporting visualizations are seaborn, matplotlib and Plotly. Also, I have tried to include some other lesser known libraries known for handling time series, spatial and other kinds of data.
 
+Warning: Plotly graphs may not be visible in here. You may download the code and run it on your local computer to see the visualizations.
+
 Happy Learning!
